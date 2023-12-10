@@ -1,4 +1,4 @@
-let anything = -20;
+let anything: number | {} = -20;
 anything = 'Text';
 anything = {};
 
